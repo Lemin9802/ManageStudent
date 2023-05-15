@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\ManageStudent\ManageStudent\bin\Debug\net7.0\ManageStudent.exe
+C:\Users\ADMIN\Desktop\ManageStudent\ManageStudent\bin\Debug\net7.0\ManageStudent.deps.json
+C:\Users\ADMIN\Desktop\ManageStudent\ManageStudent\bin\Debug\net7.0\ManageStudent.runtimeconfig.json
+C:\Users\ADMIN\Desktop\ManageStudent\ManageStudent\bin\Debug\net7.0\ManageStudent.dll
+C:\Users\ADMIN\Desktop\ManageStudent\ManageStudent\bin\Debug\net7.0\ManageStudent.pdb
+C:\Users\ADMIN\Desktop\ManageStudent\ManageStudent\obj\Debug\net7.0\ManageStudent.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\ManageStudent\ManageStudent\obj\Debug\net7.0\ManageStudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\ManageStudent\ManageStudent\obj\Debug\net7.0\ManageStudent.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\ManageStudent\ManageStudent\obj\Debug\net7.0\ManageStudent.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\ManageStudent\ManageStudent\obj\Debug\net7.0\ManageStudent.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\ManageStudent\ManageStudent\obj\Debug\net7.0\ManageStudent.dll
+C:\Users\ADMIN\Desktop\ManageStudent\ManageStudent\obj\Debug\net7.0\refint\ManageStudent.dll
+C:\Users\ADMIN\Desktop\ManageStudent\ManageStudent\obj\Debug\net7.0\ManageStudent.pdb
+C:\Users\ADMIN\Desktop\ManageStudent\ManageStudent\obj\Debug\net7.0\ManageStudent.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\ManageStudent\ManageStudent\obj\Debug\net7.0\ref\ManageStudent.dll
